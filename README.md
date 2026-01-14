@@ -1,3 +1,5 @@
+by Takuma and Argenis
+
 # Dataviz With GPT
 
 ## Learning Objectives
@@ -54,4 +56,3 @@ Use your knowledge of the vocabulary of HTML, CSS and JS to prompt ChatGPT. Your
 4. Add more interactive elements of your choice (ex: hover effects, filter by other columns, etc. )
 
 What worked? What didn't? Review your classmates' conversations with ChatGPT in Slack. Fill out an AI reflection form about your experience today.
-
