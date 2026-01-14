@@ -1,0 +1,54 @@
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 40px auto;
+  background: #fff;
+  padding: 32px 40px 40px 40px;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+}
+
+h1 {
+  font-size: 2.2em;
+  margin-bottom: 0.2em;
+  color: #2a3a4b;
+}
+
+h2 {
+  font-size: 1.2em;
+  font-weight: 400;
+  color: #4a5a6a;
+  margin-top: 0;
+  margin-bottom: 1.5em;
+}
+
+.axis-label {
+  font-size: 1em;
+  fill: #333;
+}
+
+.bar {
+  fill: #4f8bc9;
+  transition: fill 0.2s;
+}
+
+.bar:hover {
+  fill: #e67e22;
+}
+
+.axis text {
+  font-size: 1em;
+}
+
+.citation {
+  font-size: 0.9em;
+  color: #888;
+  margin-top: 2em;
+  text-align: right;
+}
